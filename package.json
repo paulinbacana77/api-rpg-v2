@@ -1,0 +1,9 @@
+{
+  "devDependencies": {
+    "@types/babel__core": "^7.20.5"
+  },
+  "dependencies": {
+    "pg": "^8.13.0",
+    "typeorm": "^0.3.20"
+  }
+}
